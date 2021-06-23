@@ -4,6 +4,10 @@
   <img align="left" alt="self-harm's website" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 
+<a href="https://www.linkedin.com/in/kseniia-lebedeva-826207157/">
+  <img align="left" alt="self-harm's LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 
 <!--
 **self-harm/self-harm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
