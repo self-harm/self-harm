@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Contact me:
 
 <a href="https://self-harm.github.io/self-harm/">
