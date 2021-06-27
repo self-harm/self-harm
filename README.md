@@ -10,6 +10,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=self-harm.visitor-badge)
 
+<br>
+
+Hi, I'm Kseniia, just a coding lover and backend developer.
 
 <!--
 **self-harm/self-harm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
