@@ -12,7 +12,7 @@
 
 <br>
 
-Hi, I'm Kseniia, just a coding lover and self-taught backend developer. Glad to see u here 
+Hi, I'm Kseniia, just a coding lover and self-taught backend developer. Glad to see u here!
 
 <!--
 **self-harm/self-harm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
