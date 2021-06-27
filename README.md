@@ -8,6 +8,8 @@
   <img align="left" alt="self-harm's LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=self-harm.visitor-badge)
+
 
 <!--
 **self-harm/self-harm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
