@@ -1,4 +1,4 @@
-# _*Contact me:*_ <img src="https://github.com/self-harm/about-me/blob/main/monophy.gif" width="150px">
+<img src="https://github.com/self-harm/about-me/blob/main/monophy.gif" width="150px">
 
 <a href="https://self-harm.github.io/about-me/">
   <img align="left" alt="self-harm's website" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
